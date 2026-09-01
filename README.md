@@ -1,0 +1,2 @@
+# Raashi
+bash scripting
